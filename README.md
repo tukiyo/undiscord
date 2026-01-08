@@ -1,5 +1,7 @@
 Discordで自分の投稿を削除するスクリプト
 
+* undiscord-5.2.6 の `deleteDiscordMessages.user.js`が動かなかった？のですが、動かせた方法のメモ
+
 F12キーを押してコンソールに貼り付け。
 
 ```
